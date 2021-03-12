@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-benefits {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -93,8 +93,9 @@ benefits {
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color:#ffffff;
 }
+
 
 .benefit-cost {
     margin-bottom: 32px;
@@ -133,6 +134,7 @@ benefits {
     margin: 10px auto;
     max-width: 150px;
 }
+
 
 section {
     margin-bottom: 20px;
