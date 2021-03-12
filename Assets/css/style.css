@@ -32,7 +32,7 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 
@@ -95,7 +95,6 @@ p {
     margin-bottom: 32px;
     color:#ffffff;
 }
-
 
 .benefit-cost {
     margin-bottom: 32px;
